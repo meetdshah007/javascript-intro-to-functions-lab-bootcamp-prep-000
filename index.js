@@ -3,7 +3,7 @@ function shout(str){
 }
 
 function whisper(str){
-  return 
+  return str.toLower
 }
 
 function logShot(str){
