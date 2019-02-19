@@ -8,7 +8,7 @@ function whisper(str){
 
 //'receives one argument and returns it in all lowercase'
 function logShot(str){
-  console.log(str);
+  console.log(str.toLowerCase());
   return str.toLowerCase();
 }
 
