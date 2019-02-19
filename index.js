@@ -9,9 +9,10 @@ function whisper(str){
 //'receives one argument and returns it in all lowercase'
 function logShot(str){
   console.log(str);
+  return str.toLowerCase();
 }
 
-//
+//'calls console.log() its one argument in all lowercase'
 function logWhisper(str){
   console.log(str);
 }
