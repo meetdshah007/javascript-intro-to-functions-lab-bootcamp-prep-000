@@ -14,5 +14,6 @@ function logShot(str){
 
 //'calls console.log() its one argument in all lowercase'
 function logWhisper(str){
-  console.log(str);
+  console.log(str.toUpperCase());
+  return str.toUpperCase();
 }
