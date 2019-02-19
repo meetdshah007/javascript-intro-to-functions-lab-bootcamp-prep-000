@@ -13,5 +13,5 @@ function logShout(str){
 
 //'calls console.log() its one argument in all lowercase'
 function logWhisper(str){
-  console.log(str.toLowerCase());
+  console.log(whisper(str));
 }
