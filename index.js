@@ -16,6 +16,8 @@ function logWhisper(str){
   console.log(whisper(str));
 }
 
+// 'returns "YES INDEED!" if `string` is uppercase'
+//
 function sayHiToGrandma(str){
   return "I can't hear you!"
 }
